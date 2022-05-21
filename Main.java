@@ -4,6 +4,7 @@ public class Main {
 
 		System.out.println("Prova stampa");
 		System.out.println("Stampa 2");
+		System.out.println("Stampa 3");
 
 	}
 
